@@ -2,7 +2,7 @@
   "name": "basic-crud",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shivani286.github.io/crud-operation",
+  "homepage": "https://shivani286.github.io/crud-operation-using-react",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^1.2.0",
